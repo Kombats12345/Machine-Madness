@@ -14,19 +14,21 @@ A. Open either file with a text editor (like Notepad) & you'll see that none of 
 
 Q. What does the version number mean?
 A. If the first number changes, then there was a major update to the algorithm (or calculator, but that's not likely).
-If the second number changes, then there was a major bug fix.
-If the third number changes, there was a minor bugfix.
+If the second number changes, then there was a quality of life change (automatic algorithm that just gives you the results, random number generator for the numbers themselves, etc.)
+If the third number changes, there was a bugfix.
 If the fourth number changes, there was just a code optimization.
+In the off-chance that there's a fifth number, there was probably just an update to this file, but there most likely wouldn't be one.
 
 Q. You can only submit the version that was completed before science fair was finished, so which version should I pick?
 A. Any version with 1.x.x(.x), because the last two (or three) numbers were only bug fixes, so it shouldn't affect any data.
-However, if you want to include bugs when trying this out for yourself, then 1.1.0 would be the best one.
+However, if you want to include bugs when trying this out for yourself, then 1.0.1 would be the one to use.
 
 Q. Where's 1.0.0(.0)?
 A. That was sent privately to people to test for themselves, & I don't want them to get these two versions mixed up. Just pretend that it doesn't exist, because it pretty much doesn't.
 
 Q. Why do you keep including the fourth number in parentheses?
 A. Because it might not always be there, in which you should assume that that number is zero. Three numbers are enough anyways.
+Also, I'm not gonna include the aforementioned fifth number in anything unless present.
 
 Q. How do I run it?
 A. Run "start.bat."
@@ -59,6 +61,9 @@ A. Because Notepad doesn't have AutoCorrect.
 Q. Why doesn't it work, even on Windows?
 A. I'm not sure, but try installing the latest version of Python 3 (https://www.python.org/) and trying again. If it still doesn't work, then try looking it up.
 
+Q. Why was this in a .zip file?
+A. For the same reason this is a .txt file, & also because it takes up less space.
+
 VERSION HISTORY
 v1.0.0(.0) (previously known as v1)
 The first "release".
@@ -67,6 +72,6 @@ Very crude & only includes one operation.
 I was working on the next version, which had multiple types of algorithms (like brute-force, etc.), infinite operations, etc., but I didn't finish in time due to procrastinating.
 Only sent out to a few people.
 
-v1.1.0(.0)
+v1.0.1(.0)
 Made it not crash when you used a zero as the second number but didn't make the operation division or roots.
 The final release before science fair is due.
