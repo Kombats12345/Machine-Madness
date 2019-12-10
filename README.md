@@ -73,6 +73,5 @@ I was working on the next version, which had multiple types of algorithms (like 
 Only sent out to a few people.
 
 v1.0.1(.0)
-Made it not crash when you used a zero as the second number but didn't make the operation division or roots.
-I also optimized it a bit and fixed some errors that came with that.
+Major bugfixes and minor optimizations.
 The final release before science fair is due.
