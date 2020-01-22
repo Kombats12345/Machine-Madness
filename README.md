@@ -34,13 +34,13 @@ Q. How do I run it?
 A. Run "start.bat."
 
 Q. Will this work on Mac?
-A. No, I'm pretty sure .bat files will only work on Windows, so you might have to look up how to make convert it or something.
+A. No, I'm pretty sure .bat files will only work on Windows, so you might have to look up how to convert it or something.
 
 Q. Why did you make the file that I have to run a .bat file instead of a .exe file?
 A. I know how to convert it, but I don't know how you would check for viruses that way due to the fact that there are more files that would be present, & they're unfamiliar to me.
 
 Q. Why is this file so informal?
-A. Because I don't think the rules say anything about digital files needing to be formal, but I might be wrong.
+A. Because I don't think the rules of science fair say anything about digital files needing to be formal, but I might be wrong.
 
 Q. How do I know this was your work?
 A. It's pretty amature, but if you want concrete evidence you can call me over and ask me to explain the code to you, because I could.
