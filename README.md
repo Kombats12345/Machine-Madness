@@ -11,7 +11,7 @@ It can detect what operation you used & is more likely to pick one operation the
 # FAQ
 Q. How do I know this isn't a virus?
 
-A. Open the source code with a text editor (like Notepad) & you'll see that none of the commands have anything to do with hacking your computer or something.
+A. Open the source code with a text editor (like Notepad) & you'll see that none of the commands have anything to do with hacking your computer or something. Otherwise, I guess you'll have to rely on your antivirus.
 
 
 Q. What does the version number mean?
@@ -30,7 +30,7 @@ In the off-chance that there's a fifth number, there was probably just an update
 Q. You can only submit the version that was completed before science fair was finished, so which version should I pick?
 
 A. Any version with 1.x.x(.x), because the last two (or three) numbers were only bug fixes, so it shouldn't affect any data.
-However, if you want to include bugs when trying this out for yourself, then 1.0.1 would be the one to use.
+However, if you want to include bugs when trying this out for yourself, then 1.0.1(.0) would be the one to use.
 
 
 Q. Where's 1.0.0(.0)?
@@ -47,11 +47,6 @@ Also, I'm not gonna include the aforementioned fifth number in anything unless p
 Q. Will this work on Mac/Linux?
 
 A. No, I'm pretty sure .exe files will only work on Windows, so you might have to look up how to make convert/emulate it or something.
-
-
-Q. Why did you make the file that I have to run a .bat file instead of a .exe file?
-
-A. I know how to convert it, but I don't know how you would check for viruses that way due to the fact that there are more files that would be present, & they're unfamiliar to me.
 
 
 Q. Why is this file so informal?
@@ -85,9 +80,9 @@ Q. Why are there typos in this (if there are any)?
 A. Because Notepad doesn't have AutoCorrect.
 
 
-Q. Why was this in a .zip file?
+Q. Why was this in a .rar file?
 
-A. For the same reason this is a .txt file, & also because it takes up less space.
+A. For a similar reason this is a .txt file, & also because it takes up less space. You might need to download WinRAR to unzip it, though.
 
 
 # VERSION HISTORY
@@ -115,5 +110,7 @@ No new bugfixes or changes to the source code, just a compilation, which I consi
 The readme files were also changed, and the source code was actually uploaded to its proper place on GitHub.
 
 I also moved the link from "/Machine-Madness-" to "/Machine-Madness", but the former one should rediret you to the correct page anyway.
+
+The package was changed from a .zip file to a .rar file. I don't know what that'll affect, but I did it anyway.
 
 The compilation was made using auto-py-to-exe.
