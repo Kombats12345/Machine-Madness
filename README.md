@@ -1,6 +1,6 @@
 # Machine Madness!
+DISCLAIMER:
 
-# DISCLAIMER:
 Lines 17-22 in "calculator.py" is not my own work. It's the code that checks whether the input that you put in is a number or not, and without it the file would crash.
 It has nothing to do with the algorithm, but just in case I'm gonna make that clear.
 Credit goes to a user known as Daniel Goldberg on Stack Overflow (https://stackoverflow.com/users/40115/daniel-goldberg)
