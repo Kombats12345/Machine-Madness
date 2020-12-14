@@ -4,10 +4,8 @@ DISCLAIMER:
 Lines 17-22 in "calculator.py" is not my own work. It's the code that checks whether the input that you put in is a number or not, and without it the file would crash.
 It has nothing to do with the algorithm, but just in case I'm gonna make that clear.
 Credit goes to a user known as Daniel Goldberg on Stack Overflow (https://stackoverflow.com/users/40115/daniel-goldberg)
-
 # INFO:
 It can detect what operation you used & is more likely to pick one operation the more times you use it, but only in certain cases. It is very amateurish, & I may or may not update it.
-
 # FAQ
 Q. How do I know this isn't a virus?
 
@@ -64,7 +62,7 @@ Q. How can I contact you?
 
 A. I have a personal email address, but I don't really check it that much.
 
-I'll try to be active on my school one (5620702472@stlucieschools.org), but if you really wanna contact me fast, you should message me over Discord (Kombats12345#2700). Expect me to answer within a few minutes to a few days outside of school hours.
+I'll try to be active on my school one (5620702472@stlucieschools.org), but if you really wanna contact me fast, you should message me over Discord (Kombats12345#2700). Expect me to answer within a few minutes to a few days outside of school hours. Notify me if you find a bug.
 
 
 Q. Why didn't you format this file better?
@@ -101,6 +99,20 @@ Q. Why do you still leave mentions to science fair even a year later?
 
 A. Archival reasons.
 
+
+Q. Why do you keep modifying the readme?
+
+A. Because there are many small changes to make.
+
+
+Q. Your program sucks.
+
+A. That isn't a question, but thank you.
+
+
+Q. I don't care about your older, buggier releases, so which one do I get?
+
+A. The one at the top of the "releases" page.
 # VERSION HISTORY
 # v1.0.0(.0) (previously known as v1)
 The first "release".
@@ -112,13 +124,10 @@ Very crude & only includes one operation.
 I was working on the next version, which had multiple types of algorithms (like brute-force, etc.), infinite operations, etc., but I didn't finish in time due to procrastinating.
 
 Only sent out to a few people.
-
-
 # 1.0.1(.0)
 Major bugfixes and minor optimizations.
 
 The final release before science fair is due.
-
 # 1.0.1.1
 No new bugfixes or changes to the source code, just a compilation, which I consider to be a code optimization. I'm pretty sure that if you wanted to use the previous release anyway, you'd need to install python 3.x, so this one is easier to start up and get running. It doesn't really matter anyway, because science fair has been done since last year as of this release, but it's there if you want a harder time running the program (and archival reasons, of course.)
 
@@ -129,6 +138,9 @@ I also moved the link from "/Machine-Madness-" to "/Machine-Madness", but the fo
 The package was changed from a .zip file to a .rar file. I don't know what that'll affect, but I did it anyway.
 
 The compilation was made using auto-py-to-exe.
-
 # 1.0.1.1.1
-Made changes to the readme file and GitHub page.
+Modified the readme file.
+# 1.0.1.1.2
+Modified the readme file.
+# 1.0.1.1.3
+Modified the readme file.
